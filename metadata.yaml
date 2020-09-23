@@ -1,11 +1,16 @@
 _repo: Discovery-at-Aspen_63217
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63217-h/images/icover.jpg
 creator:
   author:
     agent_name: Ruskay, Sophie Liebowitz
     gutenberg_agent_id: '52332'
     url: http://www.gutenberg.org/2009/agents/52332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63217#Discovery-at-Aspen
 gutenberg_issued: '2020-09-17'
 gutenberg_type: Text
 identifiers:
